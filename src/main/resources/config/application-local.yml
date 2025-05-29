@@ -1,0 +1,12 @@
+logging:
+  level:
+    com:
+      maatkamp:
+        kaitai:
+          pcap: DEBUG
+spring:
+  devtools:
+    livereload:
+      enabled: true
+    restart:
+      enabled: true

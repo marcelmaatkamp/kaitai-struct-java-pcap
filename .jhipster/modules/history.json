@@ -1,0 +1,69 @@
+{
+  "actions" : [ {
+    "module" : "init",
+    "date" : "2025-05-29T13:23:46.785147009Z",
+    "properties" : {
+      "packageName" : "com.maatkamp.kaitai.pcap",
+      "projectName" : "KaitaiPcap",
+      "baseName" : "jhipsterSampleApplication",
+      "endOfLine" : "lf",
+      "indentSize" : 2,
+      "springConfigurationFormat" : "yaml"
+    }
+  }, {
+    "module" : "maven-java",
+    "date" : "2025-05-29T13:23:46.875160328Z",
+    "properties" : {
+      "packageName" : "com.maatkamp.kaitai.pcap",
+      "projectName" : "KaitaiPcap",
+      "baseName" : "jhipsterSampleApplication",
+      "endOfLine" : "lf",
+      "indentSize" : 2,
+      "springConfigurationFormat" : "yaml"
+    }
+  }, {
+    "module" : "java-base",
+    "date" : "2025-05-29T13:23:47.016309231Z",
+    "properties" : {
+      "packageName" : "com.maatkamp.kaitai.pcap",
+      "projectName" : "KaitaiPcap",
+      "baseName" : "jhipsterSampleApplication",
+      "endOfLine" : "lf",
+      "indentSize" : 2,
+      "springConfigurationFormat" : "yaml"
+    }
+  }, {
+    "module" : "spring-boot",
+    "date" : "2025-05-29T13:23:47.355889660Z",
+    "properties" : {
+      "packageName" : "com.maatkamp.kaitai.pcap",
+      "projectName" : "KaitaiPcap",
+      "baseName" : "jhipsterSampleApplication",
+      "endOfLine" : "lf",
+      "indentSize" : 2,
+      "springConfigurationFormat" : "yaml"
+    }
+  }, {
+    "module" : "spring-boot-devtools",
+    "date" : "2025-05-29T13:23:47.458855917Z",
+    "properties" : {
+      "packageName" : "com.maatkamp.kaitai.pcap",
+      "projectName" : "KaitaiPcap",
+      "baseName" : "jhipsterSampleApplication",
+      "endOfLine" : "lf",
+      "indentSize" : 2,
+      "springConfigurationFormat" : "yaml"
+    }
+  }, {
+    "module" : "spring-boot-kafka",
+    "date" : "2025-05-29T13:23:47.621416825Z",
+    "properties" : {
+      "packageName" : "com.maatkamp.kaitai.pcap",
+      "projectName" : "KaitaiPcap",
+      "baseName" : "jhipsterSampleApplication",
+      "endOfLine" : "lf",
+      "indentSize" : 2,
+      "springConfigurationFormat" : "yaml"
+    }
+  } ]
+}
