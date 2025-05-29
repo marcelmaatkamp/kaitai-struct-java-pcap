@@ -19,5 +19,9 @@ public class JhipsterSampleApplicationApp {
     if (log.isInfoEnabled()) {
       log.info(ApplicationStartupTraces.of(env));
     }
+
+    com.maatkamp.kaitai.pcap.Pcap pcap;
+
+
   }
 }

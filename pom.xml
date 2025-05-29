@@ -201,7 +201,6 @@
         <artifactId>spring-boot-maven-plugin</artifactId>
       </plugin>
 
-
       <plugin>
         <groupId>name.valery1707.kaitai</groupId>
         <artifactId>kaitai-maven-plugin</artifactId>
@@ -219,7 +218,7 @@
           </execution>
         </executions>
       </plugin>
-      
+
     </plugins>
     <defaultGoal>spring-boot:run</defaultGoal>
   </build>
