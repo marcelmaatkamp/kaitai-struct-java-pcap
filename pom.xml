@@ -200,6 +200,26 @@
         <groupId>org.springframework.boot</groupId>
         <artifactId>spring-boot-maven-plugin</artifactId>
       </plugin>
+
+
+      <plugin>
+        <groupId>name.valery1707.kaitai</groupId>
+        <artifactId>kaitai-maven-plugin</artifactId>
+        <version>0.1.6</version>
+        <executions>
+          <execution>
+            <id>generate-kaitai-sources</id>
+            <goals>
+              <goal>generate</goal>
+            </goals>
+            <configuration>
+              <url>https://github.com/kaitai-io/kaitai_struct_compiler/releases/download/0.10/kaitai-struct-compiler-0.10.zip</url>
+              <sourceDirectory>${basedir}/src/main/kaitai</sourceDirectory>
+            </configuration>
+          </execution>
+        </executions>
+      </plugin>
+      
     </plugins>
     <defaultGoal>spring-boot:run</defaultGoal>
   </build>
